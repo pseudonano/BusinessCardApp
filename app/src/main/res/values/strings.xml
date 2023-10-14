@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BusinessCardApp</string>
+    <string name="name">Teguh Pambudi</string>
+    <string name="title">Software Engineer wannabe</string>
+    <string name="phone">+085123456789</string>
+    <string name="mail">teguhteguh@mail.com</string>
+    <string name="social">\@teguhteguh</string>
 </resources>
